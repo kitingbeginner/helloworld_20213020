@@ -1,6 +1,8 @@
 
+<img src="https://user-images.githubusercontent.com/76791128/172049352-d08d67c7-86a2-43f0-84ae-cb5e770746a2.png" width="500" height="200">
+
 ####  1. 리눅스 명령어 : top, ps, jobs, kill 명령어 조사하기
- 
+
 
 ##### top
 메모리 사용량, CPU 사용량 등을 나타내주며 top를 실행하는 동안에는 주기적인 업데이트로 실시간에 근접한 내용을 보여준다.  
@@ -30,8 +32,9 @@ jobs [옵션][작업번호]
 프로세스 이름으로 종료하는 명령어이다.  
 ps로 확인한 PID값으로 죽일 수 있다.  
 (kill -PID값)  
-  
-  
+
+<img src="https://user-images.githubusercontent.com/76791128/172049291-49c6c1c8-5191-4e11-aa3c-fbc7694cd2be.png" width="100" height="100">
+
 
 #### 2. vim 에디터에서 매크로 사용방법에 대하여 조사하기 (q , @)
 ##### 1. q+(알파벳)을 통해 기록을 시작한다.
